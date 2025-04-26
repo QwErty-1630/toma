@@ -28,5 +28,6 @@ int main() {
     cout << fixed << setprecision(6);
     cout << "y(" << n << ") = " << result << endl;
     cout << "y(" << n << ") = " << rez << endl;
+    cout << "Hello World";
     return 0;
 }
